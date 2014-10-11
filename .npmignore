@@ -5,3 +5,4 @@ _SpecRunner.html
 gruntfile.js
 .*
 *.iml
+.idea
